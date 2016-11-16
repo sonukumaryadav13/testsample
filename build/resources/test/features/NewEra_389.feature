@@ -11,7 +11,6 @@ So that different payment types/account states have different default datasource
 		Given that I am a "smart OD unmonitored card payment customer"
 		And user is logged in as with these credentials, username: "sarahsmithson94-3" and password "password1" 
 		And My account screen is displayed 
-		When the page has loaded
 		Then I am shown "the smart OD version of" the Your Account page
 		And Tile 1 is "bill"
 		And Tile 2 is "Your payments"
@@ -20,7 +19,7 @@ So that different payment types/account states have different default datasource
 		And Tile 5 is "Get a smart meter"
 		And Tile 6 is "Your Rewards"
 		And Tile 7 is "Manage your details"		
-		Then close the browser
+
 
 
 
@@ -28,7 +27,6 @@ So that different payment types/account states have different default datasource
 		Given that I am a "smart PayPlus customer"
 		And user is logged in as with these credentials, username: "divemandy-1" and password "password1"  
 		And My account screen is displayed 
-		When the page has loaded
 		Then I am shown "the smart OD version of" the Your Account page
 		And Tile 1 is "bill"
 		And Tile 2 is "Your payments"
@@ -37,4 +35,3 @@ So that different payment types/account states have different default datasource
 		And Tile 5 is "Get a smart meter"
 		And Tile 6 is "Your Rewards"
 		And Tile 7 is "Manage your details"
-		Then close the browser
