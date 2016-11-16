@@ -1,0 +1,123 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=""><head>
+    <!--[if IE ]>         <html class="no-js lt-ie"> <![endif]-->
+    
+    
+
+    <!-- code to be fixed-->
+
+    <title>UK Energy Supplier &amp; Energy Company - E.ON</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <link href="/content/assets/images/favicon.ico" rel="icon" type="image/x-icon" />
+    <meta property="og:title" content="Eon page title " />
+    <meta property="og:site_name" content="EON Energy UK" />
+    <meta property="og:url" content="http://eonenergy.com/url" />
+    <meta property="og:description" content="This is the general description for this page. Facebook recommends that this has two sentences minimum." />
+    <meta property="og:type" content="article" />
+    <meta property="fb:app_id" content="[FB_APP_ID]" />
+    <meta property="og:locale" content="en_UK" />
+    <meta property="og:image" content="/assets/images/social" />
+    <meta property="og:image:width" content="185" />
+    <meta property="og:image:height" content="55" /> <!-- General icon for mobile -->
+    <link rel="apple-touch-icon" href="/content/assets/images/icons/touch-icon.png" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Multiple icons for IOS -->
+    <link rel="apple-touch-icon" href="/content/assets/images/icons/apple/touch-icon-iphone.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/content/assets/images/icons/apple/touch-icon-ipad.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/content/assets/images/icons/apple/touch-icon-iphone-retina.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/content/assets/images/icons/apple/touch-icon-ipad-retina.png" />
+
+    <!-- multiple icons for IE -->
+    <meta name="msapplication-square70x70logo" content="/content/assets/images/icons/ie/smalltile.png" />
+    <meta name="msapplication-square150x150logo" content="/content/assets/images/icons/ie/mediumtile.png" />
+    <meta name="msapplication-wide310x150logo" content="/content/assets/images/icons/ie/widetile.png" />
+    <meta name="msapplication-square310x310logo" content="/content/assets/images/icons/ie/largetile.png" />
+    <meta name="page" content="{1DDED459-A149-4136-BB98-2B3378C9B08C}" />
+    <link rel="stylesheet" type="text/css" href="/content/assets/css/app.css" />
+    <script type="text/javascript" async="" src="http://cdn1.skyglue.com/sgTracker/eoner001.js"></script><script type="text/javascript" async="" src="http://cdn0.skyglue.com/sgtracker.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5298TP"></script><script src="/content/assets/js/vendor/gtmDataLayer.js"></script>
+<meta class="foundation-mq" /></head>
+<body class="cookie-banner-visible">
+    <div class="outer-wrapper">
+        
+        
+        <div class="inner-wrapper">
+            <div class="eon-bg-lighter-grey accountpage">
+
+                <!-- Your Account Top Bar -->
+                
+
+                <!-- First row for a 2-col -->
+                <div class="row collapse">
+
+                    <!-- First column -->
+                    <div class="tile1 large-6 columns">
+                        
+                    </div>
+
+                    <!-- second column  -->
+                    <div class="large-6 columns">
+                        <!-- inner row 1 col -->
+                        <div class="row collapse ">
+                            <div class="tile2">
+                                
+                            </div>
+                        </div>
+
+                        <!-- first col - second row  -->
+                        <div class="row collapse">
+                            <div class="tile3 small-12 medium-6 columns">
+                                
+                            </div>
+                            <div class="tile4 small-12 medium-6 columns">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Second row -->
+                <div class="row collapse border-bottom">
+                    <!-- First col -->
+                    <div class="tile5 large-6 columns">
+                        
+                    </div>
+                    <!-- Second col -->
+                    <div class="large-6 columns">
+                        <div class="row collapse">
+                            <div class="tile6 small-12 medium-6 columns">
+                                
+                            </div>
+                            <div class="tile7 small-12 medium-6 columns">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+    <script src="/content/assets/js/vendor/jquery.min.js"></script>
+    <script src="/content/assets/js/vendor/jquery.cookie.js"></script>
+    <script src="/content/assets/js/vendor/foundation.min.js"></script>
+    <script type="text/javascript" src="/content/assets/js/vendor/jquery.validate.js"></script>
+    <script type="text/javascript" src="/content/assets/js/vendor/jquery.validate.unobtrusive.js"></script>
+    <script src="/content/assets/js/vendor/motion-ui.js"></script>
+    <script src="/content/assets/js/app.js"></script>
+    <script>
+    $(document).ready(function () {
+        $(document).foundation();
+    });
+    </script>
+    <noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-5298TP"height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript><script type="text/javascript" src="content/assets/js/vendor/gtmTag.js"></script>
+
+  
+
+<div style="display: none; visibility: hidden;"><script>$(".undefined").click(function(){var a=$(".undefined").index(this);dataLayer.push({buttonIndex:a});dataLayer.push({event:"buttonClick"})});</script></div><script type="text/javascript" id="">var _sgq=_sgq||[];_sgq.push(["setSgAccount","eoner001"]);setTimeout(function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"==document.location.protocol?"https://customerscripts-skyglue.netdna-ssl.com":"http://cdn0.skyglue.com")+"/sgtracker.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)},1);</script><script type="text/javascript" id="">var elemtext=$("#login-register p a").text()+"";"Login"==elemtext.substring(0,5)?(document.cookie="loginstate\x3dloggedout; path\x3d/",console.log("Logged out!")):(document.cookie="loginstate\x3dloggedin; path\x3d/",console.log("Logged in!"));dataLayer.push({event:"cookiescollected"});</script><script type="text/javascript" id="">$("#selfserveSlide \x3e div.question-item-footer \x3e a").click(function(){dataLayer.push({event:"bdfyQuoteConfirm"})});</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1558978784405218");fbq("track","PageView");</script>
+<noscript>&lt;img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1558978784405218&amp;amp;ev=PageView&amp;amp;noscript=1"&gt;</noscript>
+<script type="text/javascript" id="">(function(){document.cookie="RenewId\x3dundefined; path\x3d/";dataLayer.push({event:"userId"})})();</script><iframe src="https://bid.g.doubleclick.net/xbbe/pixel?d=KAE" style="display: none;"></iframe></body></html>

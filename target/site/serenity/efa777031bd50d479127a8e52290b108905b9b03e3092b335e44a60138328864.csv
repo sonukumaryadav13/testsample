@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"My Account tiles","OD unmonitored card payment logged on customer","ERROR","2016-11-16T10:17:52.376Z","0.0","26.44"
+"My Account tiles","OD unmonitored card payment logged on customer","ERROR","2016-11-16T10:18:49.903Z","0.0","28.9"
+"My Account tiles","PayPlus logged on customer","ERROR","2016-11-16T10:18:22.939Z","0.0","25.69"
+"FDD next payment amount needs to always be �XX.XX","To verify that its correct till 2 decimal point","ERROR","2016-11-16T10:20:09.741Z","0.0","21.42"
+"URL change for Bill","View Bill URL","ERROR","2016-11-16T10:19:46.213Z","0.0","22.05"
+"My Account tiles","smart PayPlus logged on customer","ERROR","2016-11-16T10:19:20.147Z","0.0","24.84"
