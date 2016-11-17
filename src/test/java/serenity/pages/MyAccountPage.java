@@ -14,7 +14,7 @@ public class MyAccountPage extends PageObject {
 
     @FindBy(className="flexbox-self-align-middle")
     private WebElementFacade MyAccountText;
-    
+    			
     @FindBy(xpath="html/body/div[1]/header/div/nav[2]/button")
     private WebElementFacade YourAccountMenu;
     
