@@ -1,4 +1,4 @@
-Feature: FDD next payment amount needs to always be �XX.XX
+Feature: FDD next payment amount needs to always be £XX.XX
 As a FDD customer 
 I want to see my next direct debit payment amount including the pence 
 So I know exactly what I am paying
