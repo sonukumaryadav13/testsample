@@ -14,7 +14,7 @@ So that different payment types/account states have different default datasource
 		Then I am shown "the OD version of" the Your Account page
 		And Tile 1 is "bill"
 		And Tile 2 is "meter readings"
-		And Tile 3 is "Your payments"
+		And Tile 3 is "I want it to Fail"
 		And Tile 4 is "Check your tariff"
 		And Tile 5 is "Get a smart meter"
 		And Tile 6 is "Your Rewards"
