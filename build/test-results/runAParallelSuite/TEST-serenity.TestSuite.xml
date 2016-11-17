@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serenity.TestSuite" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="HP10058912" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Customer type is: OD unmonitored card payment customer
+My Account tile view is: the OD version of
+Customer type is:  PayPlus logged on customer
+My Account tile view is: the OD version of
+Customer type is: smart OD unmonitored card payment customer
+My Account tile view is: the smart OD version of
+Customer type is: smart PayPlus customer
+My Account tile view is: the smart OD version of
+
+6 Scenarios (?[32m6 passed?[0m)
+61 Steps (?[32m61 passed?[0m)
+2m47.339s
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

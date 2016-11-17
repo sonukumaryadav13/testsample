@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: View Bill URL" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-11-17T12:07:40" hostname="HP10058912" time="40.475">
+  <properties/>
+  <testcase name="Given user is on Testserver &quot;http://sm10372/legacylogin&quot;" classname="Scenario: View Bill URL" time="0.0"/>
+  <testcase name="Given user is logged in as with these credentials, username: &quot;kzaki1973&quot; and password &quot;password1&quot;" classname="Scenario: View Bill URL" time="0.0"/>
+  <testcase name="And My account screen is displayed" classname="Scenario: View Bill URL" time="0.0"/>
+  <testcase name="Given there is an agreed URL structure" classname="Scenario: View Bill URL" time="0.0"/>
+  <testcase name="When a customer visits the view bill page" classname="Scenario: View Bill URL" time="0.0"/>
+  <testcase name="Then the URL is eonenergy.com/&quot;bill&quot;- not eonenergy.com/ViewBill" classname="Scenario: View Bill URL" time="0.001"/>
+  <testcase name="classMethod" classname="Scenario: View Bill URL" time="49.738"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

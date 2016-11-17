@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: To verify that its correct till 2 decimal point" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-11-17T12:08:32" hostname="HP10058912" time="40.937">
+  <properties/>
+  <testcase name="Given user is on Testserver &quot;http://sm10372/legacylogin&quot;" classname="Scenario: To verify that its correct till 2 decimal point" time="0.001"/>
+  <testcase name="Given user is logged in as with these credentials, username: &quot;kzaki1973&quot; and password &quot;password1&quot;" classname="Scenario: To verify that its correct till 2 decimal point" time="0.0"/>
+  <testcase name="And My account screen is displayed" classname="Scenario: To verify that its correct till 2 decimal point" time="0.0"/>
+  <testcase name="When a customer visits the view bill page" classname="Scenario: To verify that its correct till 2 decimal point" time="0.0"/>
+  <testcase name="Given As a fixed direct debit customer" classname="Scenario: To verify that its correct till 2 decimal point" time="0.0"/>
+  <testcase name="When I view my next direct debit amount" classname="Scenario: To verify that its correct till 2 decimal point" time="0.0"/>
+  <testcase name="Then show me the amount including pounds and pence" classname="Scenario: To verify that its correct till 2 decimal point" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: To verify that its correct till 2 decimal point" time="53.211"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: smart PayPlus logged on customer" tests="13" skipped="0" failures="0" errors="0" timestamp="2016-11-17T12:07:15" hostname="HP10058912" time="14.945">
+  <properties/>
+  <testcase name="Given user is on Testserver &quot;http://sm10372/legacylogin&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="Given that I am a &quot;smart PayPlus customer&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And user is logged in as with these credentials, username: &quot;divemandy-1&quot; and password &quot;password1&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And My account screen is displayed" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="Then I am shown &quot;the smart OD version of&quot; the Your Account page" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 1 is &quot;bill&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 2 is &quot;Your payments&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 3 is &quot;Check your tariff&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 4 is &quot;Your energy use&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 5 is &quot;Get a smart meter&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 6 is &quot;Your Rewards&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 7 is &quot;Manage your details&quot;" classname="Scenario: smart PayPlus logged on customer" time="0.001"/>
+  <testcase name="classMethod" classname="Scenario: smart PayPlus logged on customer" time="24.238"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

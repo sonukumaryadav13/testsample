@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: PayPlus logged on customer" tests="13" skipped="0" failures="0" errors="0" timestamp="2016-11-17T12:06:24" hostname="HP10058912" time="16.695">
+  <properties/>
+  <testcase name="Given user is on Testserver &quot;http://sm10372/legacylogin&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="Given that I am a &quot; PayPlus logged on customer&quot;" classname="Scenario: PayPlus logged on customer" time="0.001"/>
+  <testcase name="And user is logged in as with these credentials, username: &quot;jbailey3985-1&quot; and password &quot;password1&quot;" classname="Scenario: PayPlus logged on customer" time="0.001"/>
+  <testcase name="And My account screen is displayed" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="Then I am shown &quot;the OD version of&quot; the Your Account page" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 1 is &quot;bill&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 2 is &quot;meter readings&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 3 is &quot;Your payments&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 4 is &quot;Check your tariff&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 5 is &quot;Get a smart meter&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 6 is &quot;Your Rewards&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="And Tile 7 is &quot;Your energy use&quot;" classname="Scenario: PayPlus logged on customer" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: PayPlus logged on customer" time="30.126"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

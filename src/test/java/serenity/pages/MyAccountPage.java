@@ -15,10 +15,10 @@ public class MyAccountPage extends PageObject {
     @FindBy(className="flexbox-self-align-middle")
     private WebElementFacade MyAccountText;
     
-    @FindBy(id="account-men")
+    @FindBy(xpath="html/body/div[1]/header/div/nav[2]/button")
     private WebElementFacade YourAccountMenu;
     
-    @FindBy(xpath="html/body/div[1]/header/div/nav/div[4]/div[1]/ul/li/ul/li[3]/a")
+    @FindBy(xpath="html/body/div[1]/header/div/nav[2]/div/ul/li[3]/a")
     private WebElementFacade Menu_ViewBill;
     
     @FindBy(xpath="html/body/div[1]/div[2]/div/div[2]/div[1]/div/div[2]/div/h2")
